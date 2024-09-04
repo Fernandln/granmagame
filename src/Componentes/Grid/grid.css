@@ -1,0 +1,23 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);   
+    gap: 10px; 
+    justify-content: center;
+    background-color: black;
+    width: 323px;
+    padding: 10px;
+
+}
+
+
+.grid button {
+    width: 100px;
+    height: 100px;    
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.grid img {
+    max-width: 90%;
+    max-height: 90%;
+}

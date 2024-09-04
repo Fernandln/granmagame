@@ -1,0 +1,10 @@
+*Fazer uma grid interativa de 3x3
+ 
+ - Exibir resultado do jogo
+ - Estilizar
+
+
+
+
+
+Anotar no notion todos os topicos importantes de java script
